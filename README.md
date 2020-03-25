@@ -10,8 +10,8 @@ Orca Spectrogram    |  Non-Orca Spectrogram
 
 The spectrograms are fed to the training model with set parameters. Below is the screenshot of training and validation loss and accuracy on different epochs.
 
-![Training](screenshots/train.png?raw=true "train")
+![alttext](screenshots/train.png?raw=true "train")
 
 After the model is trained, the final model is saved and finally inference is made on test set.
 
-![Testing](screenshots/train.png?raw=true "test")
+![Testing](screenshots/inference.png?raw=true "test")
